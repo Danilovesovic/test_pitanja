@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
     {
       "id": 1,
       "title": "The Benefits of Regular Exercise",
@@ -47,6 +46,4 @@
       "title": "The Psychology of Happiness",
       "text": "What makes us happy? Researchers have been studying this question for decades, and while there is no one-size-fits-all answer, there are some key factors that seem to contribute to a sense of well-being. From social connections to a sense of purpose, understanding the psychology of happiness can help us lead more fulfilling lives.",
       "categories": ["psychology", "self-improvement"]
-    },
-    {
-      "id
+    }]
