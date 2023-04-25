@@ -68,5 +68,12 @@
         "answer" : "Option 1",
         "category" : "film",
         "points" : 5
+    },
+    {
+        "text" : "Pitanje 11",
+        "options" : ["Option 1","Option 2","Option 3","Option 4"],
+        "answer" : "Option 1",
+        "category" : "film",
+        "points" : 5
     }
 ]
