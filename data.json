@@ -1,79 +1,142 @@
 [
-    {
-        "text" : "Pitanje 1",
-        "options" : ["Option 1","Option 2","Option 3","Option 4"],
-        "answer" : "Option 1",
-        "category" : "film",
-        "points" : 5
-    },
-    {
-        "text" : "Pitanje 2",
-        "options" : ["Option 1","Option 2","Option 3","Option 4"],
-        "answer" : "Option 1",
-        "category" : "sport",
-        "points" : 5
-    },
-    {
-        "text" : "Pitanje 3",
-        "options" : ["Option 1","Option 2","Option 3","Option 4"],
-        "answer" : "Option 1",
-        "category" : "muzika",
-        "points" : 5
-    },
-    {
-        "text" : "Pitanje 4",
-        "options" : ["Option 1","Option 2","Option 3","Option 4"],
-        "answer" : "Option 1",
-        "category" : "film",
-        "points" : 5
-    },
-    {
-        "text" : "Pitanje 5",
-        "options" : ["Option 1","Option 2","Option 3","Option 4"],
-        "answer" : "Option 1",
-        "category" : "film",
-        "points" : 5
-    },
-    {
-        "text" : "Pitanje 6",
-        "options" : ["Option 1","Option 2","Option 3","Option 4"],
-        "answer" : "Option 1",
-        "category" : "muzika",
-        "points" : 5
-    },
-    {
-        "text" : "Pitanje 7",
-        "options" : ["Option 1","Option 2","Option 3","Option 4"],
-        "answer" : "Option 1",
-        "category" : "muzika",
-        "points" : 5
-    },
-    {
-        "text" : "Pitanje 8",
-        "options" : ["Option 1","Option 2","Option 3","Option 4"],
-        "answer" : "Option 1",
-        "category" : "sport",
-        "points" : 5
-    },
-    {
-        "text" : "Pitanje 9",
-        "options" : ["Option 1","Option 2","Option 3","Option 4"],
-        "answer" : "Option 1",
-        "category" : "sport",
-        "points" : 5
-    },
-    {
-        "text" : "Pitanje 10",
-        "options" : ["Option 1","Option 2","Option 3","Option 4"],
-        "answer" : "Option 1",
-        "category" : "film",
-        "points" : 5
-    },
-    {
-        "text" : "Pitanje 11",
-        "options" : ["Option 1","Option 2","Option 3","Option 4"],
-        "answer" : "Option 1",
-        "category" : "film",
-        "points" : 5
-    }
+  {
+    "text": "Koji je najveći planet u Sunčevom sistemu?",
+    "options": ["Jupiter", "Saturn", "Neptun", "Mars"],
+    "answer": "Jupiter",
+    "category": "nauka",
+    "points": 5
+  },
+  {
+    "text": "Koja država ima najveći broj stanovnika?",
+    "options": ["Indija", "Kina", "SAD", "Brazil"],
+    "answer": "Indija",
+    "category": "geografija",
+    "points": 5
+  },
+  {
+    "text": "Ko je napisao roman '1984'?",
+    "options": ["Džordž Orvel", "Ernest Hemingvej", "Aldous Huxley", "Tolstoj"],
+    "answer": "Džordž Orvel",
+    "category": "književnost",
+    "points": 5
+  },
+  {
+    "text": "Koja reprezentacija je osvojila Svetsko prvenstvo u fudbalu 2018?",
+    "options": ["Francuska", "Hrvatska", "Brazil", "Nemačka"],
+    "answer": "Francuska",
+    "category": "sport",
+    "points": 5
+  },
+  {
+    "text": "Koja metoda u JavaScriptu pretvara JSON string u objekat?",
+    "options": ["JSON.parse()", "JSON.toObject()", "JSON.decode()", "Object.fromJSON()"],
+    "answer": "JSON.parse()",
+    "category": "programiranje",
+    "points": 5
+  },
+  {
+    "text": "Koji je glavni grad Australije?",
+    "options": ["Sidnej", "Melburn", "Kanbera", "Pert"],
+    "answer": "Kanbera",
+    "category": "geografija",
+    "points": 5
+  },
+  {
+    "text": "Koja životinja je najveći sisar na svetu?",
+    "options": ["Plavi kit", "Slon", "Morski lav", "Beluga"],
+    "answer": "Plavi kit",
+    "category": "nauka",
+    "points": 5
+  },
+  {
+    "text": "Koji je najrasprostranjeniji operativni sistem na desktop računarima?",
+    "options": ["Windows", "macOS", "Linux", "ChromeOS"],
+    "answer": "Windows",
+    "category": "tehnologija",
+    "points": 5
+  },
+  {
+    "text": "Koja godina se smatra početkom Prvog svetskog rata?",
+    "options": ["1914", "1912", "1918", "1920"],
+    "answer": "1914",
+    "category": "istorija",
+    "points": 5
+  },
+  {
+    "text": "Koji sport koristi termin 'love' za označavanje nule?",
+    "options": ["Tenis", "Badminton", "Stoni tenis", "Squash"],
+    "answer": "Tenis",
+    "category": "sport",
+    "points": 5
+  },
+  {
+    "text": "Koji element ima hemijsku oznaku O?",
+    "options": ["Oksigen", "Osmijum", "Olovo", "Ozon"],
+    "answer": "Oksigen",
+    "category": "nauka",
+    "points": 5
+  },
+  {
+    "text": "Koja kompanija stoji iza Android operativnog sistema?",
+    "options": ["Google", "Samsung", "Microsoft", "Huawei"],
+    "answer": "Google",
+    "category": "tehnologija",
+    "points": 5
+  },
+  {
+    "text": "Kako se zove glavni protagonist u filmu 'Matrix'?",
+       "options": ["Neo", "Morpheus", "Trinity", "Smith"],
+    "answer": "Neo",
+    "category": "film",
+    "points": 5
+  },
+  {
+    "text": "Koji protokol se koristi za slanje email poruka?",
+    "options": ["SMTP", "HTTP", "FTP", "IMAP"],
+    "answer": "SMTP",
+    "category": "tehnologija",
+    "points": 5
+  },
+  {
+    "text": "Koji git komanda prikazuje trenutnu listu izmena?",
+    "options": ["git status", "git log", "git diff", "git show"],
+    "answer": "git status",
+    "category": "programiranje",
+    "points": 5
+  },
+  {
+    "text": "Šta označava CPU u računarstvu?",
+    "options": ["Central Processing Unit", "Computer Power Unit", "Core Performance Utility", "Central Program Utility"],
+    "answer": "Central Processing Unit",
+    "category": "tehnologija",
+    "points": 5
+  },
+  {
+    "text": "Koja je najbrže životinja na kopnu?",
+    "options": ["Gepard", "Leopard", "Antilopa", "Tigar"],
+    "answer": "Gepard",
+    "category": "nauka",
+    "points": 5
+  },
+  {
+    "text": "Koji kontinent nema nijednu pustinju?",
+    "options": ["Evropa", "Afrika", "Južna Amerika", "Australija"],
+    "answer": "Evropa",
+    "category": "geografija",
+    "points": 5
+  },
+  {
+    "text": "Koja JS metoda vraća novi niz filtriran elementima koji zadovoljavaju uslov?",
+    "options": ["filter()", "map()", "reduce()", "find()"],
+    "answer": "filter()",
+    "category": "programiranje",
+    "points": 5
+  },
+  {
+    "text": "Koji naučnik je formulisao zakon gravitacije?",
+    "options": ["Njutn", "Tesla", "Ajnštajn", "Galileo"],
+    "answer": "Njutn",
+    "category": "nauka",
+    "points": 5
+  }
 ]
